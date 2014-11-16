@@ -15,7 +15,7 @@ else
 fail=$((fail+1))
 fi
 
-#Test Case 2
+#Test Case 2 written by Glen Dowling X00112791 
 #Inputs:	Limit:30		Speed:45
 #Expected Output: EUR 80
 #Actual Output: EUR 80
@@ -28,7 +28,7 @@ else
 fail=$((fail+1))
 fi
 
-#Test Case 3
+#Test Case 3 written by Glen Dowling X00112791 
 #Inputs:	Limit:30		Speed:75
 #Expected Output: EUR 100
 #Actual Output: EUR 100
@@ -67,7 +67,7 @@ else
 fail=$((fail+1))
 fi
 
-#Test Case 6 ------  GLITCH
+#Test Case 6 written by Glen Dowling X00112791  
 #Inputs:	Limit:50		Speed:70
 #Expected Output: EUR 100
 #Actual Output: EUR 150
